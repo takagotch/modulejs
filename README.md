@@ -1,6 +1,6 @@
 ### modulejs
 ---
-https://github.com/duojs/duo
+https://github.com/lrsjng/modulejs
 
 ```
 ```
